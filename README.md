@@ -19,7 +19,7 @@ npm run build
 
 ## 阿里云 ESA Pages
 
-在 ESA Pages 中连接这个仓库后，使用：
+仓库根目录已经包含 `esa.jsonc`，ESA Pages 会优先使用它：
 
 ```text
 Install command: npm ci
